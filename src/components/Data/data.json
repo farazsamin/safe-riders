@@ -1,0 +1,19 @@
+
+[
+  {
+    "name": "bike",
+    "img" : "https://www.linkpicture.com/q/Bike.png"
+  },
+  {
+    "name": "bus",
+    "img" : "https://www.linkpicture.com/q/bus.png"
+  },
+  {
+    "name": "car",
+    "img" : "https://www.linkpicture.com/q/car.png"
+  },
+  {
+    "name": "train",
+    "img" : "https://www.linkpicture.com/q/train.png"
+  }
+]
